@@ -1,1 +1,2 @@
-add code for practis
+for i in range(1,10):
+	prrint(i)
